@@ -26,7 +26,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekboadgurjar/Pomodoro-Timer.git
+    git clone https://github.com/abhishekgurjarin/Pomodoro-Timer.git
     ```
 
 2. **Open the project directory**:
@@ -47,7 +47,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Pomodoro Timer project [here](https://abhishekboadgurjar.github.io/Pomodoro-Timer/).
+You can check out the live demo of the Pomodoro Timer project [here](https://abhishekgurjarin.github.io/Pomodoro-Timer/).
 
 ## Screenshots
 ![Screenshot 2024-08-25 163328](https://github.com/user-attachments/assets/62884d0e-c270-441f-9125-30bc8215479b)
@@ -63,4 +63,4 @@ This project was developed as part of my continuous learning journey in front-en
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekboadgurjar)
+  - [GitHub Profile](https://github.com/abhishekgurjarin)
